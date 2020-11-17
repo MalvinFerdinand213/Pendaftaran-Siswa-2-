@@ -1,0 +1,29 @@
+{
+	"20200611-G0001" : {
+		"booking_code" : "KFG4",
+		"pessenger" : {
+			"title" : "Mr.",
+			"front_name" : "Malvin",
+			"last_name" : "Ferdinand"
+		},
+		"origin" :{
+			"city" : "Surabaya",
+			"airport" : "SBY"
+		},
+		"destination" : {
+			"city" : "Jakarta",
+			"airport" : "CGK"
+		},
+		"time" :{
+			"check_in" : "10.30",
+			"boarding" : "11.35",
+			"arrival" : "13.10"
+		},
+		"terminal" : "3",
+		"gate" : "3G",
+		"airline" : "Garuda Indonesia",
+		"seat" : "12A",
+		"class" : "Economy",
+		"baggage" : 10
+	}
+}
